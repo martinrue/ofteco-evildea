@@ -1,12 +1,12 @@
-# Frekvenco: Evildea
+# Ofteco: Evildea
 
-An analysis of the Esperanto YouTuber Evildea's usage of Esperanto. This file was generated using [frekvenco](https://github.com/martinrue/frekvenco).
+An analysis of the Esperanto YouTuber Evildea's usage of Esperanto. This file was generated using [ofteco](https://github.com/martinrue/ofteco).
 
-Analizo de la uzado de Esperanto de la Esperanto-Jutubisto Evildea. Tiu ĉi dosiero estis kreita de [frekvenco](https://github.com/martinrue/frekvenco).
+Analizo de la uzado de Esperanto de la Esperanto-Jutubisto Evildea. Tiu ĉi dosiero estis kreita de [ofteco](https://github.com/martinrue/ofteco).
 
 ## Results
 
-[https://martinrue.com/frekvenco-evildea](https://martinrue.com/frekvenco-evildea).
+[https://martinrue.com/ofteco-evildea](https://martinrue.com/ofteco-evildea).
 
 ## Input
 
